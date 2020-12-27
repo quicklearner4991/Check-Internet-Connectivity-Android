@@ -6,3 +6,5 @@ As activeNetworkInfo.type is deprecated in API level 28 , this is the complete s
 This repo can be found here as well
 
 https://stackoverflow.com/questions/53532406/activenetworkinfo-type-is-deprecated-in-api-level-28/65251284#65251284
+
+![Alt text](https://github.com/quicklearner4991/Check-Internet-Connectivity-Android/blob/master/Capture1.png?raw=true "Internet is connected")
